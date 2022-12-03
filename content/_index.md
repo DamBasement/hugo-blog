@@ -1,6 +1,15 @@
 ---
 title: DeadCode Manifesto
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: The execution of dead code wastes computation time and memory.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+In some areas of computer programming, dead code is a section in the source code of a program which is executed but whose result is never used in any other computation.[4][5] The execution of dead code wastes computation time and memory.
+
+```c
+int foo (int iX, int iY)
+{
+	int iZ = iX/iY;
+
+	return iX*iY;
+}
+```
