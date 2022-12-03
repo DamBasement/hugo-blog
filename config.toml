@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://dambasement.github.io/hugo-blog/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
