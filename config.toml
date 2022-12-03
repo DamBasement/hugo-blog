@@ -2,7 +2,7 @@ baseURL = "https://dambasement.github.io/hugo-blog/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+#title = "Hugo Winston Theme"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  #twitter_handle = "@zerostaticio"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
