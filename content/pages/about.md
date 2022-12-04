@@ -11,10 +11,9 @@ menu:
 ## Hi!
 
 I am DeadCode.
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+I am an infosec dude, based in Rome, working in cybersec since 2015.
+I am involved in penetration testing and ethical hacking tasks on a daily basis.
+
 
 > Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
 > adfusique imis amplexus. Agmina per fabricator
