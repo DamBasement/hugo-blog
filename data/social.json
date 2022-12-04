@@ -2,18 +2,23 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "#",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
+      "url": "https://github.com/DamBasement/",
       "image": "images/social/github.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "#",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "behance",
+      "url": "https://www.behance.net/r3df0x",
+      "image": "images/social/behance.svg"
     }
   ]
 }
