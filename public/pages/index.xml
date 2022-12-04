@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hugo Winston Theme</title>
-    <link>/pages/</link>
-    <description>Recent content in Pages on Hugo Winston Theme</description>
+    <title>Pages on </title>
+    <link>https://dambasement.github.io/hugo-blog/pages/</link>
+    <description>Recent content in Pages on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dambasement.github.io/hugo-blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://dambasement.github.io/hugo-blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
-Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
+      <guid>https://dambasement.github.io/hugo-blog/about/</guid>
+      <description>Ciao! I am Damiano, aka DeadCode.
+Infosec dude, based in Rome, working in cybersec since 2015. I am involved in penetration testing and ethical hacking tasks on a daily basis. Cybersec Hackaton lover. Badges addicted 🥸
+Check my blog for my last updates about my works, my life, things I like and activities I enjoy. My git repo links are somewhere in this site, you can check there about my projects.</description>
     </item>
     
   </channel>
