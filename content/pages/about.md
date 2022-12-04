@@ -12,7 +12,7 @@ menu:
 
 I am Damiano, aka DeadCode.
 
-> I am an infosec dude, based in Rome, working in cybersec since 2015.
+> Infosec dude, based in Rome, working in cybersec since 2015.
 > I am involved in penetration testing and ethical hacking tasks on a daily basis.
 > Cybersec Hackaton lover. Badges addicted 🥸
 
@@ -23,7 +23,7 @@ More to come every week, so stay tuned!
 
 ## Content
 
-Content will be various. I like different things so I will write different stuff. Here a list if what I think will show more often
+Content will vary. I like different things so I will write different stuff. Here a list if what I think will show more often
 
 1. Cybersecurity
 2. Web Design

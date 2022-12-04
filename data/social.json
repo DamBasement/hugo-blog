@@ -19,6 +19,11 @@
       "name": "behance",
       "url": "https://www.behance.net/r3df0x",
       "image": "images/social/behance.svg"
+    },
+    {
+      "name": "discord",
+      "url": "#",
+      "image": "images/social/discord.svg"
     }
   ]
 }
