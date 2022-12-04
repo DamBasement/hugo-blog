@@ -1,6 +1,6 @@
 ---
 title: 'About'
-image: images/writer.jpeg
+image: images/me.JPG
 url: "about"
 menu:
   main:
@@ -8,9 +8,9 @@ menu:
     weight: 3
 ---
 
-## Hi! 
+## Hi!
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
+I am DeadCode.
 illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
 [Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
 sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
