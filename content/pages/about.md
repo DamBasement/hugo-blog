@@ -11,13 +11,13 @@ menu:
 ## Hi!
 
 I am DeadCode.
-I am an infosec dude, based in Rome, working in cybersec since 2015.
-I am involved in penetration testing and ethical hacking tasks on a daily basis.
 
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> I am an infosec dude,
+> based in Rome, working in cybersec since 2015.
+> I am involved in penetration testing and ethical hacking tasks on a daily basis.
+> Cybersec Hackaton Lovers.
+> Badges addicted 🥸
 
 **Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
 virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
