@@ -10,7 +10,7 @@ menu:
 
 ## Ciao!
 
-I am Damiano, aka DeadCode.
+I am DeadCode.
 
 > Infosec dude, based in Rome, working in cybersec since 2015.
 > I am involved in penetration testing and ethical hacking tasks on a daily basis.
