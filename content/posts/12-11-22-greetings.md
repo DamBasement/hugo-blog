@@ -19,10 +19,10 @@ I want to thank everyone will take some time to check it and give it a read.
 I will update my twitter account every time a new post will be released so, don't forget to follow me at
 [@DeadCip](https://twitter.com/DeadCip)
 
-SPOILER: 😎
+**SPOILER:** 😎
 I think I am going to start sharing with you a small template I did for everyone that want to use for his/her personal site/page. I am going to release it soon so, stay tuned and let me know if you like it!
 
-TIP:
+**TIP:**
 Cure - Disintegration (1989) 💔  
 
 Peace.

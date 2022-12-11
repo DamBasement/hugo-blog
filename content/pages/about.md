@@ -23,7 +23,7 @@ More to come every week, so stay tuned!
 
 ## Content
 
-Content will vary. I like different things so I will write different stuff. Here a list if what I think will show more often
+Content will vary. I like different things so I will write different stuff. Here a list of what I think will pop up. :)
 
 1. Cybersecurity
 2. Web Development
