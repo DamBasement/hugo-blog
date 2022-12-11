@@ -20,7 +20,7 @@ I will update my twitter account every time a new post will be released so, don'
 [@DeadCip](https://twitter.com/DeadCip)
 
 **SPOILER:** 😎
-I think I am going to start sharing with you a small template I did for everyone that want to use for his/her personal site/page. I am going to release it soon so, stay tuned and let me know if you like it!
+I think I am going to start sharing with you a small template I did for everyone that want to use for his/her personal site/page. I'll  release it soon so, stay tuned and let me know if you like it!
 
 **TIP:**
 Find some time to listen again or for the first time...
