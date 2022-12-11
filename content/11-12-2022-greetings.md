@@ -24,6 +24,6 @@ I think I am going to start sharing with you a small template I did for everyone
 
 **TIP:**
 Find some time to listen again or for the first time...
-Cure - Disintegration (1989) 💔  
+Cure - Disintegration (1989) 💔
 
 Peace.
