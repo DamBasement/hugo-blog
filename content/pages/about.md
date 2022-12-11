@@ -13,13 +13,13 @@ menu:
 I'm DeadCode.
 
 > Infosec dude, based in Rome, working in cybersec since 2015.
-> I am involved in penetration testing and ethical hacking tasks on a daily basis.
-> Cybersec Hackaton lover. Badges addicted 🥸
+> I am involved in penetration testing, ethical hacking and red teaming tasks on a daily basis.
+> Cybersec Hackaton lover. CTF player. 🥸
 
 **Check my blog** for my last updates about my works, my life, things I like and activities I enjoy.
 My git repo links are somewhere in this site, you can check there about my projects.
 I will also post stuff in the blog section, trying to be as much regular as possible in terms of updates and news.
-More to come every week, so stay tuned!
+More to come every week (hopefully) so, stay tuned!
 
 ## Content
 
