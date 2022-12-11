@@ -11,18 +11,13 @@
       "image": "images/social/github.svg"
     },
     {
-      "name": "linkedin",
-      "url": "#",
-      "image": "images/social/linkedin.svg"
-    },
-    {
       "name": "behance",
       "url": "https://www.behance.net/r3df0x",
       "image": "images/social/behance.svg"
     },
     {
       "name": "discord",
-      "url": "#",
+      "url": "https://www.discordapp.com/users/c0rm4n0#8009",
       "image": "images/social/discord.svg"
     }
   ]

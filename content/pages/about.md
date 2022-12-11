@@ -26,9 +26,11 @@ More to come every week, so stay tuned!
 Content will vary. I like different things so I will write different stuff. Here a list if what I think will show more often
 
 1. Cybersecurity
-2. Web Design
+2. Web Development
 3. Photography
 4. Society
+5. Music
+6. Movies
 
 Thanks for stepping by!
 
