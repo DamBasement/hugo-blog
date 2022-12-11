@@ -8,7 +8,7 @@ menu:
     weight: 3
 ---
 
-## Ciao!
+## Hi!
 
 I am DeadCode.
 
@@ -34,4 +34,4 @@ Content will vary. I like different things so I will write different stuff. Here
 
 Thanks for stepping by!
 
-Se ya soon ! 😃
+ 😃
