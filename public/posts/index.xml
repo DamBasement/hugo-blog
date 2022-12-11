@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>https://dambasement.github.io/hugo-blog/posts/</link>
+    <link>https://dambasement.net/posts/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dambasement.github.io/hugo-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dambasement.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greetings</title>
-      <link>https://dambasement.github.io/hugo-blog/posts/12-11-22-greetings/</link>
+      <link>https://dambasement.net/posts/11-12-2022-greetings/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dambasement.github.io/hugo-blog/posts/12-11-22-greetings/</guid>
+      <guid>https://dambasement.net/posts/11-12-2022-greetings/</guid>
       <description>and there it is&amp;hellip; Hi there! I got it! Finally.
 This is my first post, nothing more than an introduction and a chance to say hello! I hope to provide fun and useful news, topic and subjects here. I am pretty new on blogging so I will do my best.
 I want to thank everyone will take some time to check it and give it a read. I will update my twitter account every time a new post will be released so, don&amp;rsquo;t forget to follow me at @DeadCip</description>
