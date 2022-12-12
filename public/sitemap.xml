@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dambasement.net/tags/blogging/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dambasement.net/categories/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dambasement.net/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dambasement.net/categories/greetings/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dambasement.net/posts/11-12-2022-greetings/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dambasement.net/tags/miscellaneous/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dambasement.net/tags/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dambasement.net/posts/</loc>
@@ -13,10 +28,6 @@
   </url><url>
     <loc>https://dambasement.net/about/</loc>
   </url><url>
-    <loc>https://dambasement.net/categories/</loc>
-  </url><url>
     <loc>https://dambasement.net/pages/</loc>
-  </url><url>
-    <loc>https://dambasement.net/tags/</loc>
   </url>
 </urlset>

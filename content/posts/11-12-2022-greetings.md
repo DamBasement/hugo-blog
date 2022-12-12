@@ -5,6 +5,8 @@ description: "First post to introduce myself and the purpose of this site.
 There are tons of blogs out there, providing a wonderful help for every community that is involved in tech, culture and trends, and this is great!
 I just want to be part of it and contribute with my personal touch, hoping this will help others too. I hope you'll enjoy it."
 image: images/rubber-duck.jpg
+tags: ["Miscellaneous", "Blogging"]
+categories: ["Greetings"]
 ---
 
 ## and there it is...
