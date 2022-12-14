@@ -8,6 +8,9 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
+[taxonomies]
+  tag = 'tags'
+
 [module]
   [module.hugoVersion]
     extended = true

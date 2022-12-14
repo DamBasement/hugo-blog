@@ -1,0 +1,12 @@
+<section>
+  <h1>Tags</h1>
+  <ul>
+    {{ range .Data.Terms.Alphabetical }}
+      <li>
+        <h2>
+          <a href="{{ .Page.Permalink }}">({{ .Count }}) {{ .Page.Title }}</a>
+        </h2>
+      </li>
+    {{ end }}
+  </ul>
+</section>
