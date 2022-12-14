@@ -13,19 +13,17 @@ categories: ["Greetings"]
 
 Hi there! I got it! Finally.
 
-This is my first post, nothing more than an introduction and a chance to say hello!
-I hope to provide fun and useful news, topic and subjects here.
-I am pretty new on blogging so I will do my best.
+This is my first post, just an introduction and a chance to say hello! I will try to share fun and useful news, topics and themes here. Even though I'm quite new to blogging, I'll do my best to create something nice.
 
 I want to thank everyone will take some time to check it and give it a read.
 I will update my twitter account every time a new post will be released so, don't forget to follow me at
 [@DeadCip](https://twitter.com/DeadCip)
 
 **SPOILER:** 😎
-I think I am going to start sharing with you a small template I did for everyone that want to use for his/her personal site/page. I'll  release it soon so, stay tuned and let me know if you like it!
+I think I'll start by sharing a little template I made for anyone who wants to use it for their own personal site/page. I will post it soon so stay tuned and let me know if you like it!
 
 **TIP:**
-Find some time to listen again or for the first time...
+Find some time to listen again or for the first time:
 Cure - Disintegration (1989) 💔
 
 Peace.
