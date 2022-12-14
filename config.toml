@@ -8,10 +8,6 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
 [module]
   [module.hugoVersion]
     extended = true
@@ -25,12 +21,12 @@ pygmentsUseClasses = true
   showPostsOnHomepage = false
   addDot = true
   addFrame = true
-  highlightColor = '#7b16ff'
+  highlightColor = '#ED4C67'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
+  headingColor = "#1e272e"
   textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  dotColor = "#ED4C67"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
