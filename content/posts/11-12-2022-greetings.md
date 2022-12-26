@@ -1,5 +1,5 @@
 ---
-title: "Greetings"
+title: Greetings
 date: 2022-12-11
 description: "First post to introduce myself and the purpose of this site.
 There are tons of blogs out there, providing a wonderful help for every community that is involved in tech, culture and trends, and this is great!
@@ -23,7 +23,7 @@ I will update my twitter account every time a new post will be released so, don'
 I think I'll start by sharing a little template I made for anyone who wants to use it for their own personal site/page. I will post it soon so stay tuned and let me know if you like it!
 
 **TIP:**
-Find some time to listen again or for the first time:
-Cure - Disintegration (1989) 💔
+Find some time to listen again or for the first time:<br />
+>Cure - Disintegration (1989) 💔
 
 Peace.
