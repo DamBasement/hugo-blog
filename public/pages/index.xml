@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on </title>
-    <link>https://dambasement.net/pages/</link>
-    <description>Recent content in Pages on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dambasement.net/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://dambasement.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dambasement.net/about/</guid>
-      <description>Hi! I&amp;rsquo;m DeadCode.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on</title><link>https://dambasement.net/pages/</link><description>Recent content in Pages on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://dambasement.net/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://dambasement.net/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dambasement.net/about/</guid><description>Hi! I&amp;rsquo;m DeadCode.
 Infosec dude, based in Rome, working in cybersec since 2015. I am involved in penetration testing, ethical hacking and red teaming tasks on a daily basis. Cybersec Hackaton lover. CTF player. 🥸
-Check my blog for my last updates about my works, my life, things I like and activities I enjoy. My git repo links are somewhere in this site, you can check there about my projects. I will also post stuff in the blog section, trying to be as much regular as possible in terms of updates and news.</description>
-    </item>
-    
-  </channel>
-</rss>
+Check my blog for my last updates about my works, my life, things I like and activities I enjoy. My git repo links are somewhere in this site, you can check there about my projects. I will also post stuff in the blog section, trying to be as much regular as possible in terms of updates and news.</description></item></channel></rss>

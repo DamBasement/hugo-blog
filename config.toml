@@ -7,8 +7,6 @@ paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
-relativeURLs = true
-canonifyURLs = true
 
 [taxonomies]
   tag = 'tags'
