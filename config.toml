@@ -14,8 +14,8 @@ pygmentsUseClasses = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.55.0"
-
+    #min = "0.55.0"
+    min = "0.109.0"
 [params]
   google_analytics_id = ""
   twitter_handle = "@DeadCip"
