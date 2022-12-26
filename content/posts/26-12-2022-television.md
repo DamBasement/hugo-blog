@@ -14,7 +14,7 @@ When I decided to create a site to introduce myself I had a small personal chall
 It's nothing more than a nice and unpretentious showcase that wants to present the people who use it in a captivating and exciting way, especially for nostalgics like me who grew up between the 80's and 90's.
 The music you will hear was created *ad hoc* by a colleague of mine whom I continue to thank, using a modular analog synthesizer created with Arduino (but that's another story).
 Feel free to download it, edit it and use it as your business card.
-This is my Christmas present to you!
+This is my XMas present for you!
 
 **SPOILER:** 😎
 Recently I passed my **CRTO** (Certified Red Team Operator) by Zero Point Security. I will share soon my review about the course material and exam.
