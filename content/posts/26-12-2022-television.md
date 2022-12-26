@@ -7,9 +7,9 @@ tags: ["Web", "Development"]
 categories: ["Web Development"]
 ---
 
-## welcome back!
+## Welcome back!
 
-Hi there, and Merry XMas!
+Hi there, and Merry XMas!<br />
 When I decided to create a site to introduce myself I had a small personal challenge into my mind: to be able to create something attractive with as few lines of code as possible LOL. The result can be seen on my [github](https://github.com/DamBasement/vintage-tv) page and on my  [Behance](https://www.behance.net/gallery/115362535/127001) page.<br />
 It's nothing more than a nice and unpretentious showcase that wants to present the people who use it in a captivating and exciting way, especially for nostalgics like me who grew up between the 80's and 90's.<br />
 The music you will hear was created *ad hoc* by a colleague of mine whom I continue to thank, using a modular analog synthesizer created with Arduino (but that's another story).
