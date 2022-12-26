@@ -14,7 +14,7 @@ categories: ["Greetings"]
 Hi there! I got it! Finally.
 
 This is my first post, just an introduction and a chance to say hello! I will try to share fun and useful news, topics and themes here. Even though I'm quite new to blogging, I'll do my best to create something nice.<br />
-I want to thank everyone will take some time to check it and give it a read.
+Thanks to everyone will take some time to check it and give it a read.<br />
 I will update my twitter account every time a new post will be released so, don't forget to follow me at<br />
 [@DeadCip](https://twitter.com/DeadCip)
 
