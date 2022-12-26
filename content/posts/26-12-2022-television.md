@@ -17,7 +17,7 @@ Feel free to download it, edit it and use it as your business card.<br />
 This is my XMas present for you!
 
 **SPOILER:** 😎
-Recently I passed my **CRTO** (Certified Red Team Operator) by Zero Point Security. I will share soon my review about the course material and exam.
+Recently I passed my **CRTO** (Certified Red Team Operator) by *Zero Point Security*. I will share soon my review about the course material and exam.
 
 **TIP:**
 For these lovely XMas vacations there is nothing better than watching again, or for the first time:<br />
