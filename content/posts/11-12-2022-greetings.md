@@ -1,5 +1,5 @@
 ---
-title: Greetings
+title: "Greetings"
 date: 2022-12-11
 description: "First post to introduce myself and the purpose of this site.
 There are tons of blogs out there, providing a wonderful help for every community that is involved in tech, culture and trends, and this is great!
