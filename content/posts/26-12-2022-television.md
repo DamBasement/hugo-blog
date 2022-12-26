@@ -1,7 +1,7 @@
 ---
 title: "Vintage TV"
 date: 2022-12-26
-description: 'Vintage TV is a template for web sites and personal page. It was the one I used before switching to Hugo. I decided to make it Public, so to have everyone able to download and modify it to adapt it to your needs.'
+description: "Vintage TV is a template for web sites and personal page. It was the one I used before switching to Hugo. I decided to make it Public, so to have everyone able to download and modify it to adapt it to your needs."
 image: images/television.jpg
 tags: ["Web", "Development" "HTML/CSS"]
 categories: ["Web Development"]
