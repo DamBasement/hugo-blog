@@ -10,7 +10,6 @@ pygmentsUseClasses = true
 
 [taxonomies]
   tag = 'tags'
-  category = 'categories'
 
 [module]
   [module.hugoVersion]
