@@ -19,6 +19,15 @@
       "name": "discord",
       "url": "https://www.discordapp.com/users/c0rm4n0#8009",
       "image": "images/social/discord.svg"
+    },
+    {
+      "name": "hackthebox",
+      "url": "https://app.hackthebox.com/profile/484328",
+      "image": "images/social/htb.svg"
+    },{
+      "name": "instagram",
+      "url": "https://www.instagram.com/de4dc0de",
+      "image": "images/social/instagram.svg"
     }
   ]
 }
