@@ -23,14 +23,14 @@ More to come every week (hopefully) so, stay tuned!
 
 ## Content
 
-Content will vary. I like different things so I will write different stuff. Here a list of what I think will pop up. :)
+Content will vary. I like different things so I will write about different stuff. Here a list of what I think will pop up. :)
 
-1. Cybersecurity
-2. Web Development
-3. Photography
-4. Society
-5. Music
-6. Movies
+- Cybersecurity
+- Web Development
+- Photography
+- Society
+- Music
+- Movies
 
 Thanks for stepping by!
 
