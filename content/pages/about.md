@@ -25,12 +25,12 @@ More to come every week (hopefully) so, stay tuned!
 
 Content will vary. I like different things so I will write about different stuff. Here a list of what I think will pop up. :)
 
-- Cybersecurity
-- Web Development
-- Photography
-- Society
-- Music
-- Movies
+ Cybersecurity
+ Web Development
+ Photography
+ Society
+ Music
+ Movies
 
 Thanks for stepping by!
 
